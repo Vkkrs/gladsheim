@@ -1,7 +1,7 @@
 ---
 type: module
 module_nr: 4
-title: "Battle Drills"
+title: "M04 - Battle Drills"
 status: not-started
 tags:
   - battle-drill

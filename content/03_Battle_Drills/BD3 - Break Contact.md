@@ -1,7 +1,7 @@
 ---
 type: battle-drill
 drill_nr: 3
-title: "Break Contact"
+title: "BD3 - Break Contact"
 module: "[[M04 - Battle Drills]]"
 tags:
   - battle-drill

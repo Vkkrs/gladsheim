@@ -1,7 +1,7 @@
 ---
 type: module
 module_nr: 3
-title: "Movement"
+title: "M03 - Movement"
 status: not-started
 tags:
   - movement

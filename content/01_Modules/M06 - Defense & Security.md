@@ -1,7 +1,7 @@
 ---
 type: module
 module_nr: 6
-title: "Defense & Security"
+title: "M06 - Defense & Security"
 status: not-started
 tags:
   - defense

@@ -1,7 +1,7 @@
 ---
 type: battle-drill
 drill_nr: 8
-title: "Breach Mined Wire Obstacle"
+title: "BD8 - Breach Mined Wire Obstacle"
 module: "[[M04 - Battle Drills]]"
 tags:
   - battle-drill

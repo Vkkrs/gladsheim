@@ -1,7 +1,7 @@
 ---
 type: module
 module_nr: 2
-title: "Formationen"
+title: "M02 - Formationen"
 status: not-started
 tags:
   - movement

@@ -1,7 +1,7 @@
 ---
 type: module
 module_nr: 7
-title: "Troop-Leading & OPORD"
+title: "M07 - Troop-Leading & OPORD"
 status: not-started
 tags:
   - leadership

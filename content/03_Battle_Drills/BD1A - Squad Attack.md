@@ -1,7 +1,7 @@
 ---
 type: battle-drill
 drill_nr: 1A
-title: "Squad Attack"
+title: "BD1A - Squad Attack"
 module: "[[M04 - Battle Drills]]"
 tags:
   - battle-drill

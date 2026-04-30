@@ -1,7 +1,7 @@
 ---
 type: battle-drill
 drill_nr: 5
-title: "Knock Out Bunker"
+title: "BD5 - Knock Out Bunker"
 module: "[[M04 - Battle Drills]]"
 tags:
   - battle-drill

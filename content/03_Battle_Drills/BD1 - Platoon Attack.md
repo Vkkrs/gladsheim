@@ -1,7 +1,7 @@
 ---
 type: battle-drill
 drill_nr: 1
-title: "Platoon Attack"
+title: "BD1 - Platoon Attack"
 module: "[[M04 - Battle Drills]]"
 tags:
   - battle-drill

@@ -1,7 +1,7 @@
 ---
 type: battle-drill
 drill_nr: 7
-title: "Enter/Clear Trench"
+title: "BD7 - Enter/Clear Trench"
 module: "[[M04 - Battle Drills]]"
 tags:
   - battle-drill

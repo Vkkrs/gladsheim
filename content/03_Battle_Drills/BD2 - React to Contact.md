@@ -1,7 +1,7 @@
 ---
 type: battle-drill
 drill_nr: 2
-title: "React to Contact"
+title: "BD2 - React to Contact"
 module: "[[M04 - Battle Drills]]"
 tags:
   - battle-drill

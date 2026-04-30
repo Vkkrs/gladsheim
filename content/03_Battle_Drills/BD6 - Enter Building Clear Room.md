@@ -1,7 +1,7 @@
 ---
 type: battle-drill
 drill_nr: 6
-title: "Enter Building / Clear Room"
+title: "BD6 - Enter Building / Clear Room"
 module: "[[M04 - Battle Drills]]"
 tags:
   - battle-drill

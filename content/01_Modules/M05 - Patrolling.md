@@ -1,7 +1,7 @@
 ---
 type: module
 module_nr: 5
-title: "Patrolling"
+title: "M05 - Patrolling"
 status: not-started
 tags:
   - patrolling

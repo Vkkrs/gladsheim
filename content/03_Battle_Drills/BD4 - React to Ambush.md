@@ -1,7 +1,7 @@
 ---
 type: battle-drill
 drill_nr: 4
-title: "React to Ambush"
+title: "BD4 - React to Ambush"
 module: "[[M04 - Battle Drills]]"
 tags:
   - battle-drill

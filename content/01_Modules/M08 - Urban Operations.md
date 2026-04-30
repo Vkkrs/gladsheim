@@ -1,7 +1,7 @@
 ---
 type: module
 module_nr: 8
-title: "Urban Operations"
+title: "M08 - Urban Operations"
 status: not-started
 tags:
   - urban-ops

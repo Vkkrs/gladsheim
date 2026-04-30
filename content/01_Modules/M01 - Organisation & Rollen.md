@@ -1,7 +1,7 @@
 ---
 type: module
 module_nr: 1
-title: "Organisation & Rollen"
+title: "M01 - Organisation & Rollen"
 status: not-started
 tags:
   - doctrine
